@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning **Angular** and **Django**
 - 💬 Ask me about **Python, MERN Stack, DSA, Java, and SQL**
 - 📫 How to reach me: **1804pravallika@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1TXVBjSM8TUcNSh7-JgBhQGmyl-P1djST/view?usp=drive_link) <!-- Replace this link with your actual CV link -->
-- ⚡ Fun fact: I debug best with music blasting in the background 🎧
+- 📄 [My Resume](https://drive.google.com/file/d/1TXVBjSM8TUcNSh7-JgBhQGmyl-P1djST/view?usp=sharing) 
+- ⚡ Fun fact: I debug best with music blasting in the background 
 
 ---
 
